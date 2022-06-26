@@ -1,6 +1,6 @@
 global.language = "id"
-global.nomerOwner ="6289605393009"
-global.nomerOwner2 = "6289605393009"
+global.nomerOwner ="6287741166552"
+global.nomerOwner2 = "6287741166552"
 global.runWith = "Heroku"
 global.ownerName = "HFZ"
 global.botName = "immortal" 
